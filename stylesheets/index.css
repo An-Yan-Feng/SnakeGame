@@ -1,0 +1,21 @@
+
+.sence{
+    box-shadow:0 0 10px black inset;
+    width:620px;
+    height:590px;
+    border:1px solid black;
+    border-right:none;
+    border-bottom:none;
+    background-color:black;
+    position: absolute;
+    top:50px;
+    left:365px;
+}
+.block{
+    width:30px;
+    height:30px;
+    margin:0 1px 1px 0;
+    float:left;
+    background:#ABF32D;
+    background-image:url('../img/1.png');
+}
